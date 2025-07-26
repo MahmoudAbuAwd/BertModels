@@ -1,0 +1,2 @@
+Mahmoud Abuawd is an AI Engineer with experience in computer vision, NLP, and generative models.
+He works with TensorFlow and PyTorch, and has published research on medical imaging using GANs.

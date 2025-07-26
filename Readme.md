@@ -1,6 +1,6 @@
 # NLP Project Suite with BERT
 
-This project provides a suite of NLP tools built around BERT architecture, including base BERT implementations, prediction services, and text summarization capabilities.
+This project provides a suite of NLP tools built around BERT architecture, including DeBERT implementations, prediction services, and text summarization capabilities.
 
 ## Project Structure
 

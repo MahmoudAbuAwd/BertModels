@@ -1,4 +1,3 @@
-```markdown
 # BERT Fill-Mask Predictor
 
 A Streamlit web application that uses Google's BERT model to predict masked words in sentences.
